@@ -1,7 +1,7 @@
 # Residual Stress Measurement Device using Hole Drilling Method and Digital Image Correlation
  Complete documentation (CAD, Software, Instructions) of a novel Residual Stress Measurement Device utilising Hole Drilling Method and Digital Image Correlation
 
-https://github.com![finaldevice](https://user-images.githubusercontent.com/63448618/145726662-6e732a31-4e3b-4cb7-9411-c4779400dac4.jpg)
+![alt text](https://user-images.githubusercontent.com/63448618/145726662-6e732a31-4e3b-4cb7-9411-c4779400dac4.jpg)
 
 The CAD Model for the device can be found in the link:
 https://a360.co/3m0amRs
